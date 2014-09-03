@@ -8,6 +8,6 @@ module.exports = {
   },
 
   plugins: [
-    new MoveToParentMergingPlugin(4)
+    new MoveToParentMergingPlugin()
   ]
 };
